@@ -1,0 +1,33 @@
+img{
+    border:dotted;
+    border-radius: 500px;
+    height: 20%;
+    width: auto;
+}
+
+.container{
+    margin-top: 5rem;
+    color: white;
+    font-family: Lora;
+   
+}
+
+.col-sm-8{
+    align-items: center;
+    text-align: center;
+}
+
+.col-sm-4{
+    align-items: center;
+    text-align: center;
+}
+ body{
+     background-color:#404547
+     
+ }
+
+
+ .con1{
+     margin: 0;
+     margin-top: 0;
+ }
