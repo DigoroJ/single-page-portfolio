@@ -7,24 +7,26 @@ img{
 }
 
 .container{
-    /* margin-top: 5rem; */
+    
     color: white;
     font-family: Lora;
-    background-color:black;
+   
     padding-top: 5rem;;
+    flex: 12rem;
 }
 
 .col-sm-8 {
     align-items: center;
     text-align: center;
-    background-color:black
+
+    padding: 3rem;;
     
 }
 
 .col-sm-4{
     align-items: center;
     text-align: center;
-    background-color:black
+   
 }
  body{
      background-color:black
@@ -35,7 +37,7 @@ img{
  .con1{
      margin: 0;
      margin-top: 0;
-     background-color:black
+    
  }
  
  h1{

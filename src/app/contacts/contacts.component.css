@@ -1,0 +1,23 @@
+
+
+.col-sm-8{
+    border-left: solid black;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+img{
+    width:100%;
+}
+
+.upRight{
+    
+    padding-left: 3rem;;
+}
+
+.col-sm-4{
+    padding-top:5rem;
+}
